@@ -8,9 +8,11 @@ This repository contains the source for **Room56**.
 
 ## Getting Started
 
+To get started:
+
 1. Clone the repository.
-2. Review the project files.
-3. Follow any setup instructions provided in the codebase.
+2. Open the project in your preferred editor.
+3. Review the files and begin building.
 
 ## Development
 
