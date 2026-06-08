@@ -1,27 +1,20 @@
 # Room56
 
-A new project repository.
-
 ## Overview
 
-This repository contains the source for **Room56**.
+Room56 is a room that changes based on the user's needs. It is a room of requirement: it can change and adapt because it is initially blank. It does not suggest, it does not know, and it does not assume. It is a blank canvas, waiting for specifications.
 
 ## Getting Started
 
-To get started:
-
-1. Clone the repository.
-2. Open the project in your preferred editor.
-3. Review the files and begin building.
+This repository is currently blank and will take shape as requirements are defined.
 
 ## Development
 
-- Add project-specific setup instructions here.
-- Document how to run, test, and build the project.
+Project structure, setup, and workflow will be added once specifications are established.
 
 ## Contributing
 
-Contributions are welcome. Please open an issue or pull request to discuss changes.
+Contributions can begin once the project requirements and direction are defined.
 
 ## License
 
